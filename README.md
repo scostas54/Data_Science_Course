@@ -1,2 +1,2 @@
-# testrepo
-En este repositorio se guardan las pruebas del curso de Data Science de IBM
+# Data Science Course Repository
+Respository to test everything I do while I am learning the IBM Data Science Course
